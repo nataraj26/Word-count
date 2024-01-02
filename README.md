@@ -9,23 +9,23 @@ Anaconda - Python 3.7
 
 Create a file with sample.txt file extension.
 
-#### Step 2:
+### Step 2:
 
 Add some texts in that file.
 
-#### Step 3:
+### Step 3:
 
 Create a python file.
 
-#### Step 4:
+### Step 4:
 
 Write a code to count the number of words in that file.
 
-#### Step 5:
+### Step 5:
 
 Run the program.
 
-#### Step 6:
+### Step 6:
 
 Display the output.
 
