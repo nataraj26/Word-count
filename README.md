@@ -5,21 +5,45 @@ To write a python program for getting the word count from a text.
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-### Step 1:
+#### Step 1:
 
-### Step 2: 
- 
-### Step 3: 
+Create a file with sample.txt file extension.
 
-### Step 4:  
+#### Step 2:
 
-### Step 5: 
+Add some texts in that file.
 
-### Step 6: 
+#### Step 3:
+
+Create a python file.
+
+#### Step 4:
+
+Write a code to count the number of words in that file.
+
+#### Step 5:
+
+Run the program.
+
+#### Step 6:
+
+Display the output.
 
 ## PROGRAM:
+```python
+def program():
+count = 0
+with open(" tx t^ prime prime ,"r^ prime prime ) as f:
+for data in f:
+words=data.split()
+for word in words:
+count+=1
+print("Total number of words:", count)
+program()
+```
 
 ### OUTPUT:
+![image](https://github.com/AkilaMohan/Word-count/assets/147514615/ee55e300-015b-407b-ab7c-e842fcd4532a)
 
 
 
